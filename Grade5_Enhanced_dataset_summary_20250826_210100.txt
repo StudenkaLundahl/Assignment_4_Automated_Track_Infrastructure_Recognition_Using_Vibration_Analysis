@@ -1,0 +1,35 @@
+=========================================================================
+GRADE 5: ENHANCED MULTI-DATASET ANALYSIS SUMMARY
+=========================================================================
+
+DATASET COMPOSITION:
+• Total segments: 716
+• Infrastructure segments: 248 (34.6%)
+• Normal track segments: 468 (65.4%)
+• Source CSV files: 4
+  1. SL_labeled_segments_Borlänge-Mora_Route_(60.48°N_15.00°E)_2024-12-10_16-00-00_1.csv
+  2. SL_labeled_segments_Borlänge-Mora_Route_(60.48°N_15.02°E)_2024-12-10_12-00-00_1.csv
+  3. SL_labeled_segments_Borlänge-Mora_Route_(60.71°N_14.54°E)_2024-12-12_12-00-00_1.csv
+  4. SL_labeled_segments_Borlänge-Mora_Route_(60.72°N_14.54°E)_2024-12-10_10-00-00_1.csv
+
+CLASS DISTRIBUTION:
+• Normal Track: 468 segments (65.4%)
+• RailJoint: 190 segments (26.5%)
+• Turnout: 34 segments (4.7%)
+• Bridge: 24 segments (3.4%)
+
+MODEL PERFORMANCE RANKING:
+5. Logistic Regression: F1=0.675, Acc=0.702
+2. Gradient Boosting: F1=0.673, Acc=0.693
+1. Random Forest: F1=0.663, Acc=0.688
+4. KNN: F1=0.659, Acc=0.684
+3. SVM: F1=0.655, Acc=0.707
+8. 1D CNN: F1=0.629, Acc=0.660
+6. Naive Bayes: F1=0.619, Acc=0.614
+7. Dense Neural Network: F1=0.615, Acc=0.670
+
+BEST MODEL: Logistic Regression
+• Accuracy: 0.702
+• F1-Score: 0.675
+• Precision: 0.667
+• Recall: 0.702
