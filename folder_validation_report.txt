@@ -1,0 +1,893 @@
+MORA-BORLÄNGE RAILWAY GPS VALIDATION REPORT
+============================================================
+
+Report generated: 2025-08-26 15:30:01
+Infrastructure data source: excel_comprehensive
+Total infrastructure points: 238
+
+INFRASTRUCTURE DISTRIBUTION:
+------------------------------
+• RailJoint: 173 points (72.7%)
+• Turnout: 41 points (17.2%)
+• Bridge: 24 points (10.1%)
+
+
+VALIDATED FOLDERS (Enhanced Criteria):
+----------------------------------------
+
+📁 2024-12-10 10-00-00 (1):
+   - Infrastructure coverage: 61.3%
+   - Infrastructure types: RailJoint, Bridge, Turnout
+   - Infrastructure matches: 146
+   - Quality score: 91.3
+   - Validation status: PASSED
+
+📁 2024-12-10 12-00-00 (1):
+   - Infrastructure coverage: 32.8%
+   - Infrastructure types: RailJoint, Bridge, Turnout
+   - Infrastructure matches: 78
+   - Quality score: 62.8
+   - Validation status: PASSED
+
+📁 2024-12-10 16-00-00 (1):
+   - Infrastructure coverage: 39.1%
+   - Infrastructure types: RailJoint, Bridge, Turnout
+   - Infrastructure matches: 93
+   - Quality score: 69.1
+   - Validation status: PASSED
+
+📁 2024-12-12 10-00-00 (1):
+   - Infrastructure coverage: 88.7%
+   - Infrastructure types: RailJoint, Bridge, Turnout
+   - Infrastructure matches: 211
+   - Quality score: 118.7
+   - Validation status: PASSED
+
+📁 2024-12-12 12-00-00 (1):
+   - Infrastructure coverage: 61.3%
+   - Infrastructure types: RailJoint, Bridge, Turnout
+   - Infrastructure matches: 146
+   - Quality score: 91.3
+   - Validation status: PASSED
+
+
+REJECTED FOLDERS:
+--------------------
+
+📁 2024-12-08 02-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-08 04-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Track segment too short: 0.8 km (minimum 6km required)
+     • Mostly stationary recording: only 22.8% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-08 06-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-08 08-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-10 14-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Excessive very poor GPS: 21.2% with <3 satellites
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-10 18-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Unrealistic train speeds: 0.0 to 212.8 km/h
+     • Excessive poor GPS quality: 49.5% with <4 satellites
+     • Excessive very poor GPS: 21.2% with <3 satellites
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-10 20-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Track segment too short: 0.6 km (minimum 6km required)
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-10 22-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Track segment too short: 0.3 km (minimum 6km required)
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-11 00-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Track segment too short: 5.3 km (minimum 6km required)
+     • Mostly stationary recording: only 1.1% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-11 02-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Mostly stationary recording: only 15.8% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-11 04-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Track segment too short: 0.1 km (minimum 6km required)
+     • Mostly stationary recording: only 11.3% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-11 06-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Unrealistic train speeds: 0.0 to 295.1 km/h
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-11 08-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Unrealistic train speeds: 0.0 to 201.0 km/h
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-11 10-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Track suspiciously long: 571.9 km (may include GPS noise)
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-11 12-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Track segment too short: 3.4 km (minimum 6km required)
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-11 14-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Track segment too short: 4.0 km (minimum 6km required)
+     • Mostly stationary recording: only 2.8% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-11 16-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Excessive poor GPS quality: 49.2% with <4 satellites
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-11 18-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-11 20-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Track suspiciously long: 246496.8 km (may include GPS noise)
+     • Mostly stationary recording: only 0.1% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-11 22-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Mostly stationary recording: only 7.8% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-12 14-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-14 08-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Track segment too short: 1.9 km (minimum 6km required)
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-14 13-58-26 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Insufficient GPS data: 470 points (minimum 1000 required)
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic position jump: 6636.7 km between consecutive GPS points
+     • Track suspiciously long: 6636.8 km (may include GPS noise)
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-14 14-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • Track segment too short: 1.3 km (minimum 6km required)
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-14 16-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • Unrealistic train speeds: 0.0 to 189.0 km/h
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-14 18-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • Unrealistic train speeds: 0.0 to 180.6 km/h
+     • Excessive poor GPS quality: 47.1% with <4 satellites
+     • Excessive very poor GPS: 26.6% with <3 satellites
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-14 22-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic position jump: 6928.3 km between consecutive GPS points
+     • Track suspiciously long: 246503.9 km (may include GPS noise)
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-15 00-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Unrealistic train speeds: 0.0 to 484.3 km/h
+     • Track segment too short: 5.2 km (minimum 6km required)
+     • Mostly stationary recording: only 0.1% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-15 02-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Track segment too short: 0.0 km (minimum 6km required)
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-15 04-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Track segment too short: 3.9 km (minimum 6km required)
+     • Mostly stationary recording: only 4.6% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-15 06-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Mostly stationary recording: only 8.6% of points show movement
+     • Excessive very poor GPS: 20.9% with <3 satellites
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-15 08-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Track segment too short: 0.1 km (minimum 6km required)
+     • Mostly stationary recording: only 6.6% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-15 10-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic train speeds: 0.0 to 180.2 km/h
+     • Track segment too short: 2.0 km (minimum 6km required)
+     • Mostly stationary recording: only 2.7% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-15 12-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-15 14-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Unrealistic train speeds: 0.0 to 659.9 km/h
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-15 16-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Mostly stationary recording: only 3.8% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-15 18-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Track segment too short: 2.6 km (minimum 6km required)
+     • Mostly stationary recording: only 15.5% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-16 05-26-02 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic position jump: 6766.3 km between consecutive GPS points
+     • Track suspiciously long: 34477.8 km (may include GPS noise)
+     • Mostly stationary recording: only 0.8% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-16 06-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-16 08-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-16 12-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-17 00-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Mostly stationary recording: only 1.2% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-17 02-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Mostly stationary recording: only 0.1% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-17 04-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-17 06-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-17 08-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-17 10-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-18 02-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • Track segment too short: 0.1 km (minimum 6km required)
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-18 06-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic train speeds: 0.0 to 265.4 km/h
+     • Track suspiciously long: 300.5 km (may include GPS noise)
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-18 08-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-19 04-02-35 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic position jump: 6636.7 km between consecutive GPS points
+     • Track suspiciously long: 116893.9 km (may include GPS noise)
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-19 06-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • Excessive poor GPS quality: 59.1% with <4 satellites
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-19 08-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Track segment too short: 1.0 km (minimum 6km required)
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-19 10-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic train speeds: 0.0 to 202.7 km/h
+     • Track segment too short: 4.0 km (minimum 6km required)
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-19 12-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-19 14-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Track suspiciously long: 241748.4 km (may include GPS noise)
+     • Excessive poor GPS quality: 46.4% with <4 satellites
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-22 05-47-18 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic position jump: 6766.4 km between consecutive GPS points
+     • Track suspiciously long: 12890.3 km (may include GPS noise)
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-22 07-27-58 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic position jump: 6766.4 km between consecutive GPS points
+     • Track suspiciously long: 32512.9 km (may include GPS noise)
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-22 19-03-25 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic position jump: 6798.3 km between consecutive GPS points
+     • Track suspiciously long: 57702.5 km (may include GPS noise)
+     • Mostly stationary recording: only 0.2% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-22 21-20-56 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic position jump: 6798.3 km between consecutive GPS points
+     • Track suspiciously long: 39840.8 km (may include GPS noise)
+     • Mostly stationary recording: only 4.3% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-22 22-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Mostly stationary recording: only 1.0% of points show movement
+     • Excessive poor GPS quality: 64.7% with <4 satellites
+     • Excessive very poor GPS: 60.0% with <3 satellites
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-23 07-08-12 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic position jump: 6798.5 km between consecutive GPS points
+     • Track suspiciously long: 52824.4 km (may include GPS noise)
+     • Mostly stationary recording: only 2.9% of points show movement
+     • Excessive very poor GPS: 21.6% with <3 satellites
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-23 08-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Track segment too short: 1.5 km (minimum 6km required)
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-23 09-47-32 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Insufficient GPS data: 45 points (minimum 1000 required)
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Track segment too short: 0.0 km (minimum 6km required)
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-23 09-49-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Insufficient GPS data: 403 points (minimum 1000 required)
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Track segment too short: 0.1 km (minimum 6km required)
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-23 09-50-26 (2):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Track segment too short: 0.5 km (minimum 6km required)
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-23 10-00-00 (2):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Mostly stationary recording: only 0.9% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-23 12-00-00 (2):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic train speeds: 0.0 to 2157.6 km/h
+     • Mostly stationary recording: only 8.1% of points show movement
+     • Excessive poor GPS quality: 48.4% with <4 satellites
+     • Excessive very poor GPS: 45.8% with <3 satellites
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-23 14-00-00 (2):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Track segment too short: 2.1 km (minimum 6km required)
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-23 16-00-00 (2):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Excessive very poor GPS: 21.7% with <3 satellites
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-23 18-00-00 (2):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic train speeds: 0.0 to 839.2 km/h
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-23 20-00-00 (2):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-23 22-00-00 (2):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Mostly stationary recording: only 12.2% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-24 00-00-00 (2):
+   - Validation status: FAILED
+   - Issues found:
+     • Track segment too short: 4.0 km (minimum 6km required)
+     • Mostly stationary recording: only 0.1% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-24 02-00-00 (2):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic train speeds: 0.0 to 334.8 km/h
+     • Mostly stationary recording: only 2.6% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-24 04-00-00 (2):
+   - Validation status: FAILED
+   - Issues found:
+     • Track segment too short: 0.7 km (minimum 6km required)
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-24 06-00-00 (2):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-24 08-00-00 (2):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic train speeds: 0.0 to 186.1 km/h
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-24 10-00-00 (2):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-24 12-43-56 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic position jump: 6729.2 km between consecutive GPS points
+     • Track suspiciously long: 76794.9 km (may include GPS noise)
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-24 14-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic train speeds: 0.0 to 289.5 km/h
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-24 16-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-24 18-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • Mostly stationary recording: only 2.4% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-25 03-45-34 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic position jump: 6766.4 km between consecutive GPS points
+     • Track suspiciously long: 14650.4 km (may include GPS noise)
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-25 07-13-44 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic position jump: 6766.3 km between consecutive GPS points
+     • Track suspiciously long: 46959.6 km (may include GPS noise)
+     • Mostly stationary recording: only 8.7% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-25 08-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-25 10-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-25 12-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-25 14-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic train speeds: 0.0 to 185.1 km/h
+     • Track segment too short: 2.7 km (minimum 6km required)
+     • Excessive poor GPS quality: 49.7% with <4 satellites
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-25 16-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • Unrealistic train speeds: 0.0 to 193.7 km/h
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-25 21-50-45 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic position jump: 6636.6 km between consecutive GPS points
+     • Track suspiciously long: 9208.5 km (may include GPS noise)
+     • Mostly stationary recording: only 0.0% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-26 06-59-59 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic position jump: 6636.6 km between consecutive GPS points
+     • Track suspiciously long: 59746.6 km (may include GPS noise)
+     • Mostly stationary recording: only 2.1% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-26 08-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • Unrealistic train speeds: 0.0 to 211.8 km/h
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-26 10-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • Unrealistic train speeds: 0.0 to 212.6 km/h
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-26 12-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-26 14-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-30 06-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-30 08-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-30 10-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-30 12-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Unrealistic train speeds: 0.0 to 767.2 km/h
+     • Mostly stationary recording: only 21.2% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-30 14-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-30 16-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-30 18-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge longitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-30 20-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-30 22-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • Mostly stationary recording: only 20.6% of points show movement
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-31 00-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • Track segment too short: 2.4 km (minimum 6km required)
+     • Mostly stationary recording: only 1.1% of points show movement
+     • Excessive poor GPS quality: 48.4% with <4 satellites
+     • Excessive very poor GPS: 36.9% with <3 satellites
+   - Infrastructure coverage: 0.0%
+
+📁 2024-12-31 02-00-00 (1):
+   - Validation status: FAILED
+   - Issues found:
+     • GPS coordinates outside Mora-Borlänge latitude range
+     • GPS coordinates outside Mora-Borlänge longitude range
+     • Track segment too short: 3.9 km (minimum 6km required)
+     • Mostly stationary recording: only 2.0% of points show movement
+     • Excessive very poor GPS: 23.1% with <3 satellites
+   - Infrastructure coverage: 0.0%
+
+
+SUMMARY STATISTICS:
+--------------------
+- Total folders scanned: 112
+- Valid folders: 5
+- Rejected folders: 107
+- Success rate: 4.5%
+
+ENHANCED VALIDATION CRITERIA:
+- Infrastructure coverage: minimum 15%
+- Infrastructure diversity: minimum 2 types
+- GPS quality: standard railway operation criteria
+- Coordinate system: WGS84 decimal degrees
